@@ -1,0 +1,101 @@
+* {
+   margin: 0;
+}
+
+
+body 
+{
+   background-color: #F0F2F5 ;
+  display: flex;}
+   
+
+h1 {
+    color: #1877F2;
+    font-family: serif;
+    position: absolute;
+    top: 17% ;
+    left: 66%;
+    font-size: 47px;
+    font-weight: 37px;
+}
+
+.containers {
+   position: absolute;
+   top: 35%;
+   left: 23%;
+   font-display: inherit;
+   font-size: 21px;
+}
+header {
+ width: 333px;
+ height: 360px;
+ position: absolute;
+ top: 27%;
+ left: 61%;
+ background-color: white;
+}
+
+.forms input {
+  width: 77%;
+margin: 13px;
+top: 37px;
+left: 26px;
+padding: 14px 19px;
+}
+.forms1 {
+  text-align: center;
+  background-color: #166FE5;
+  margin: 12px;
+ padding: 11px;
+ text-align: center;
+ border-radius: 8px;
+}
+.forms1 a {
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: 10px;
+}
+ .forms2  {
+   text-align: center ;
+ }
+.forms2 a {
+    text-decoration: none;
+    color: #7fa0c2;
+}
+
+
+.forms3 {
+height: 7%;
+    width: 85%;
+ text-align: center;
+ margin: 23px;
+ margin-top: 37px;
+ background-color: rgb(54, 164, 32);
+ padding: 7px;
+ border-radius: 8px;
+}
+.forms3 a {
+text-decoration: none;
+font-size: 19px;
+font-weight: 10px;
+color: white;
+}
+
+.forms:active{
+ border-color: #1877F2;
+
+}
+
+.for{
+position: absolute;
+left: 63%;
+top: 78%;
+color: black;
+font-size: 14px;
+}
+
+
+
+
+
